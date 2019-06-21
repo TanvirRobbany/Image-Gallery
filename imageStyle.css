@@ -1,0 +1,23 @@
+body{
+    background-image: url(1.jpg);
+    background-position: cover;
+    background-attachment: fixed;
+}
+img{
+    float: left;
+    width: 30%;
+    margin: 1.66%;
+}
+p{
+    font-family: 'Bangers', cursive;
+    margin: 1.66%;
+    font-size: 30px;
+    font-weight: 800;
+    border-bottom: 2px solid rgb(134, 124, 139);
+    padding-bottom: 20px;
+    width: 30%;
+}
+.size{
+    width: 400px;
+    height: 200px;
+}
